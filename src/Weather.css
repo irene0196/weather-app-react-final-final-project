@@ -27,12 +27,10 @@
   line-height: 19px;
   list-style: none;
 }
-.weather img {
+.weather canvas {
   position: relative;
-  top: -18px;
+  top: 11px;
   margin-right: 10px;
-  height: 73px;
-  width: 73px;
 }
 .weather .temperature {
   color: rgb(33, 33, 33);
